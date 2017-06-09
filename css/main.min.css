@@ -1493,6 +1493,32 @@ body {
   max-width: 100%;
   height: auto; }
 
+.wraper {
+  margin: 0 auto;
+  max-width: 1440px;
+  position: relative; }
+
+.section {
+  margin: 0 auto;
+  font-size: 16px;
+  overflow: hidden;
+  color: #8a8a8a;
+  text-align: center; }
+
+.section-1 .columns-2 {
+  padding: 180px 0 160px; }
+
+.section-2 .wraper {
+  padding: 105px 0 0;
+  background-color: #f6f5f3; }
+
+.section-2 .description {
+  margin: 0 auto 20px; }
+
+.section-2 .description-2 {
+  margin: 0 auto 90px;
+  padding: 0 25%; }
+
 .pryam_treugolnik_left {
   position: absolute;
   top: 0;
@@ -1582,32 +1608,6 @@ body {
     -webkit-box-shadow: 0 4px 2px -2px rgba(0, 0, 0, 0.2);
             box-shadow: 0 4px 2px -2px rgba(0, 0, 0, 0.2);
     margin: 0 0 15px; }
-
-.wraper {
-  margin: 0 auto;
-  max-width: 1440px;
-  position: relative; }
-
-.section {
-  margin: 0 auto;
-  font-size: 16px;
-  overflow: hidden;
-  color: #8a8a8a;
-  text-align: center; }
-
-.section-1 .columns-2 {
-  padding: 180px 0 160px; }
-
-.section-2 .wraper {
-  padding: 105px 0 0;
-  background-color: #f6f5f3; }
-
-.section-2 .description {
-  margin: 0 auto 20px; }
-
-.section-2 .description-2 {
-  margin: 0 auto 90px;
-  padding: 0 25%; }
 
 #header {
   text-align: center;
